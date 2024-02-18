@@ -63,3 +63,4 @@ dataset/osm-poi-*
 .ipynb_checkpoints
 __pycache__/
 .jupyter_ystore.db
+.conda
