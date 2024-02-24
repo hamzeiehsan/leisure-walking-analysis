@@ -64,3 +64,5 @@ dataset/osm-poi-*
 __pycache__/
 .jupyter_ystore.db
 .conda
+outputs/model/*
+!outputs/model/.gitkeep
