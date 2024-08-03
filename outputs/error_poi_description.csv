@@ -1,0 +1,264 @@
+,index,osm_info,pred,actual,record_id,topic,Subclass
+0,887,amenity university website http://www.rmit.edu.au/about/our-locations-and-facilities/locations/melbourne-bundoora-campus/,society,activities,64,7,picnic area
+1,2710,,nature,society,229,32,"art, history and culture"
+2,1435,highway residential maxspeed  surface asphalt,nature,society,113,50,human made landmarks
+3,3904,,nature,activities,344,44,sport complexes
+4,1122,,nature,activities,85,35,sport complexes
+5,2286,,nature,transport,193,47,lines and stations
+6,170,,nature,activities,12,3,food and beverage
+7,2582,,nature,society,220,12,human made landmarks
+8,1653,fee yes opening_hours Mo-Su :-: tourism museum website https://www.australiansportsmuseum.org.au/ wikidata Q,activities,society,132,39,"art, history and culture"
+9,3828,,nature,society,338,50,human made landmarks
+10,3254,,nature,activities,282,3,food and beverage
+11,941,,nature,society,68,39,"art, history and culture"
+12,1489,,nature,society,115,17,"art, history and culture"
+13,900,amenity restaurant cuisine burger;regional outdoor_seating yes,activities,society,65,17,"art, history and culture"
+14,1589,bridge yes foot yes highway footway layer  operator City of Banyule phone +    ref BR source survey surface concrete,transport,nature,127,0,natural landmarks
+15,2481,leisure park,activities,nature,211,1,flora and funa
+16,3737,,nature,activities,328,5,picnic area
+17,4379,amenity parking amenity parking highway service service parking_aisle,society,activities,386,16,picnic area
+18,3057,amenity bench backrest yes amenity bench backrest yes,activities,nature,264,1,flora and funa
+19,3997,,nature,society,353,12,human made landmarks
+20,867,,nature,society,62,41,"art, history and culture"
+21,806,,nature,society,57,18,"art, history and culture"
+22,3383,,nature,society,293,8,"art, history and culture"
+23,3754,amenity bench,nature,activities,330,13,picnic area
+24,3188,,nature,activities,277,22,fishing to surfing
+25,1775,artwork_type sculpture material steel tourism artwork,society,nature,141,0,natural landmarks
+26,1505,,nature,activities,117,29,fishing to surfing
+27,199,addr:city Melbourne addr:housenumber  addr:postcode  addr:street Swanston Street amenity library building yes fax +    internet_access wlan internet_access:fee no opening_hours Mo-Th :-:; Fr-Su :-: phone +    website https://www.slv.vic.gov.au wikidata Q,activities,society,13,12,human made landmarks
+28,3041,direction  tourism viewpoint,nature,transport,262,47,lines and stations
+29,2812,,nature,society,240,52,"art, history and culture"
+30,3196,,nature,society,278,15,"art, history and culture"
+31,1355,highway footway,nature,activities,106,28,fishing to surfing
+32,677,,nature,activities,47,5,picnic area
+33,2817,,nature,society,240,52,"art, history and culture"
+34,2931,,nature,society,252,34,human made landmarks
+35,2411,addr:suburb East Melbourne leisure park phone +    wikidata Q wikipedia en:Treasury Gardens,society,nature,204,6,flora and funa
+36,2091,,nature,society,176,18,"art, history and culture"
+37,3551,[],nature,society,308,51,"art, history and culture"
+38,3144,amenity parking,activities,nature,272,0,natural landmarks
+39,89,,nature,transport,4,2,trail-path-and-canal
+40,2342,,nature,society,199,15,"art, history and culture"
+41,1981,,nature,transport,161,2,trail-path-and-canal
+42,3549,,nature,society,308,8,"art, history and culture"
+43,3090,,nature,transport,266,2,trail-path-and-canal
+44,2390,,nature,activities,203,16,picnic area
+45,4336,"access yes attraction night_life cycleway:both lane cycleway:both:traffic_mode:left parking cycleway:both:width . cycleway:left:conditional lane @ (Mo-Fr :-:) cycleway:left:lane advisory cycleway:left:lane:conditional exclusive @ (Mo-Fr :-:) cycleway:right:doorzone yes cycleway:right:lane exclusive description Street known for cafés, live music venues and alternative fashion shops. Source: Wikipedia embedded_rails tram fee no highway tertiary maxspeed  network AU:VIC:S note bike lane is legally marked so it is still to be recorded. There is also a clearway along this road ref  source survey source:maxspeed https://yoursayyarra.com.au/km surface paved tourism attraction wikipedia en:Brunswick Street, Melbourne",nature,society,381,41,"art, history and culture"
+46,811,,nature,activities,57,23,sport complexes
+47,2103,,nature,activities,177,13,picnic area
+48,2802,place neighbourhood source http://www.thatsmelbourne.com.au/Documents/Maps/Docklands_map.pdf website http://victoriaharbour.com.au/,activities,nature,238,4,natural landmarks
+49,2178,amenity clock man_made tower source survey,activities,society,183,51,"art, history and culture"
+50,1415,tourism picnic_site,activities,nature,111,21,flora and funa
+51,2767,bridge yes highway tertiary layer  oneway no source GPS surface paved bridge yes foot designated highway cycleway layer  segregated no source:geometry Bing aerial imagery surface asphalt,transport,activities,234,5,picnic area
+52,4187,leisure park,activities,nature,370,48,flora and funa
+53,1333,bicycle yes foot yes highway footway surface asphalt,nature,transport,104,2,trail-path-and-canal
+54,2311,natural water type multipolygon,nature,activities,196,44,sport complexes
+55,190,"cycleway:both no highway unclassified lit yes maxspeed  oneway yes source survey;Yahoo,bing surface asphalt",nature,society,13,17,"art, history and culture"
+56,2260,,nature,transport,191,2,trail-path-and-canal
+57,1859,amenity post_office building yes operator Australia Post,society,activities,148,3,food and beverage
+58,4201,,nature,society,371,60,"art, history and culture"
+59,717,information board source survey tourism information natural water water river,nature,transport,49,2,trail-path-and-canal
+60,2978,,nature,activities,256,13,picnic area
+61,2990,,nature,society,257,15,"art, history and culture"
+62,1779,,nature,transport,141,2,trail-path-and-canal
+63,98,building yes source Bing tourism viewpoint,nature,activities,5,22,fishing to surfing
+64,2939,,nature,transport,253,20,trail-path-and-canal
+65,1513,,nature,transport,117,20,trail-path-and-canal
+66,4341,bicycle yes foot yes highway service oneway no service alley surface paved,nature,society,382,17,"art, history and culture"
+67,1459,,nature,society,113,50,human made landmarks
+68,937,highway footway,nature,activities,68,42,picnic area
+69,1508,,nature,activities,117,29,fishing to surfing
+70,4095,,nature,activities,363,44,sport complexes
+71,1700,,nature,society,134,12,human made landmarks
+72,4081,"building yes historic building start_date  wikidata Q wikipedia en:Government House, Melbourne",society,nature,362,6,flora and funa
+73,1548,,nature,activities,123,23,sport complexes
+74,1447,,nature,activities,113,3,food and beverage
+75,1164,,nature,society,88,38,"art, history and culture"
+76,223,leisure park,activities,nature,15,58,flora and funa
+77,3718,,nature,activities,326,13,picnic area
+78,3501,artwork_type sculpture material wood start_date  tourism artwork,society,nature,303,21,flora and funa
+79,3043,,nature,society,262,34,human made landmarks
+80,403,highway path highway service,nature,transport,24,2,trail-path-and-canal
+81,1342,,nature,activities,105,13,picnic area
+82,2578,,nature,society,220,18,"art, history and culture"
+83,985,leisure park wikidata Q,activities,nature,72,0,natural landmarks
+84,1687,,nature,society,134,15,"art, history and culture"
+85,1233,amenity bbq,activities,nature,95,21,flora and funa
+86,3028,,nature,activities,261,28,fishing to surfing
+87,830,,nature,society,58,17,"art, history and culture"
+88,966,waterway waterfall,nature,transport,70,2,trail-path-and-canal
+89,538,leisure park source yahoo wikidata Q,nature,activities,36,16,picnic area
+90,458,,nature,activities,28,36,sport complexes
+91,1101,,nature,activities,83,13,picnic area
+92,1197,leisure garden,nature,activities,90,44,sport complexes
+93,2009,,nature,transport,165,2,trail-path-and-canal
+94,4312,,nature,society,380,15,"art, history and culture"
+95,3498,,nature,society,302,51,"art, history and culture"
+96,1576,,nature,activities,126,5,picnic area
+97,2852,addr:street Silverdale Road addr:suburb Eaglemont landuse retail,activities,nature,244,48,flora and funa
+98,3475,building roof layer ,activities,society,300,41,"art, history and culture"
+99,1666,addr:country AU addr:housenumber - addr:postcode  addr:state VIC addr:street St Kilda Road addr:suburb Southbank amenity arts_centre building yes description Rich treasury of visual arts. fee no opening_hours Mo-Su :-: phone +    toilets:wheelchair yes tourism gallery website https://www.ngv.vic.gov.au wheelchair yes wikidata Q wikipedia en:National Gallery of Victoria,activities,society,132,39,"art, history and culture"
+100,2450,building civic,society,nature,207,4,natural landmarks
+101,1225,,nature,society,93,15,"art, history and culture"
+102,813,,nature,society,57,32,"art, history and culture"
+103,1501,leisure park wikidata Q,activities,nature,117,4,natural landmarks
+104,3271,,nature,activities,284,29,fishing to surfing
+105,2627,amenity bench backrest yes amenity bench backrest yes,activities,nature,223,6,flora and funa
+106,2210,highway residential source yahoo surface paved highway service service alley,nature,society,185,17,"art, history and culture"
+107,2089,,nature,society,176,15,"art, history and culture"
+108,2556,bicycle no highway footway,nature,transport,218,20,trail-path-and-canal
+109,2734,,nature,society,231,17,"art, history and culture"
+110,2312,access private historic ruins,society,nature,196,48,flora and funa
+111,863,,nature,activities,62,28,fishing to surfing
+112,423,,nature,society,25,12,human made landmarks
+113,1160,information office tourism information,nature,transport,88,20,trail-path-and-canal
+114,299,,nature,society,21,17,"art, history and culture"
+115,3957,leisure nature_reserve natural wood source Vicmap WMTS,nature,society,349,50,human made landmarks
+116,2106,,nature,society,177,15,"art, history and culture"
+117,1347,,nature,society,105,32,"art, history and culture"
+118,1724,"garden:type botanical leisure garden note benches, bbq, picnic tables, playground wikidata Q",activities,nature,135,6,flora and funa
+119,316,highway pedestrian highway service,nature,society,21,17,"art, history and culture"
+120,1014,fixme extents? leisure park amenity shelter shelter_type picnic_shelter,nature,activities,74,5,picnic area
+121,1132,,nature,activities,85,5,picnic area
+122,1534,,nature,activities,121,7,picnic area
+123,3955,,nature,transport,348,47,lines and stations
+124,3920,bicycle yes foot yes highway footway horse no incline % surface paved width  leisure playground,nature,activities,346,42,picnic area
+125,805,,nature,society,57,8,"art, history and culture"
+126,1762,"dog no leisure park source nearmap,melway",activities,transport,140,2,trail-path-and-canal
+127,1963,,nature,activities,158,5,picnic area
+128,1720,landuse cemetery source nearmap wikidata Q,nature,society,135,8,"art, history and culture"
+129,2751,,nature,society,233,18,"art, history and culture"
+130,1469,,nature,society,113,50,human made landmarks
+131,4104,leisure park,activities,nature,364,6,flora and funa
+132,95,addr:housenumber  addr:postcode  addr:street Ocean Beach Road amenity cafe building yes website https://allsmiles.com.au/ wifi no,nature,activities,5,3,food and beverage
+133,2207,,nature,society,185,51,"art, history and culture"
+134,793,area yes landuse allotments,society,nature,56,6,flora and funa
+135,1876,,nature,society,149,60,"art, history and culture"
+136,844,"access yes description Demolished in , all that remains are concrete floors and rock paving, almost vanished under the scrub historic ruins ruins farmhouse url https://rlcnews.com.au/articles/knox-historical-society/",society,nature,60,9,flora and funa
+137,1574,addr:housenumber  addr:street Alfrieda Street addr:unit  amenity restaurant,society,activities,126,3,food and beverage
+138,2426,,nature,transport,205,2,trail-path-and-canal
+139,3336,leisure garden,nature,transport,290,20,trail-path-and-canal
+140,1010,amenity bench amenity bench,nature,activities,74,13,picnic area
+141,274,"dog no leisure park source nearmap,melway",activities,nature,18,1,flora and funa
+142,3834,,nature,society,338,30,human made landmarks
+143,1985,tourism viewpoint,nature,activities,161,5,picnic area
+144,987,,nature,society,72,17,"art, history and culture"
+145,4105,,nature,society,364,8,"art, history and culture"
+146,994,highway path source:geometry VicMap Transport,nature,transport,73,47,lines and stations
+147,1475,,nature,society,114,38,"art, history and culture"
+148,424,,nature,society,25,52,"art, history and culture"
+149,4316,,nature,society,380,15,"art, history and culture"
+150,492,addr:city Bright addr:housenumber - addr:postcode  addr:street Mountbatten Avenue phone:AU    tents yes tourism caravan_site website https://www.big.com.au/,society,nature,31,0,natural landmarks
+151,3394,,nature,society,293,12,human made landmarks
+152,1872,leisure park,activities,nature,149,11,flora and funa
+153,1895,leisure park,activities,society,152,18,"art, history and culture"
+154,3751,,nature,activities,330,16,picnic area
+155,2908,,nature,society,249,17,"art, history and culture"
+156,3750,,nature,activities,330,5,picnic area
+157,3206,addr:city Bendigo addr:country AU addr:postcode  addr:state VIC building greenhouse,nature,activities,278,16,picnic area
+158,763,,nature,society,53,15,"art, history and culture"
+159,1482,leisure park wikidata Q,activities,nature,114,6,flora and funa
+160,4196,,nature,society,370,8,"art, history and culture"
+161,4352,,nature,society,383,39,"art, history and culture"
+162,4076,,nature,society,362,39,"art, history and culture"
+163,4188,,nature,society,370,63,"art, history and culture"
+164,1540,"attraction natural description short tunnel cut by gold miners in the s across a meander loop. When water level is high, water flows through it and spurts out the outer end. fee no tourism attraction wheelchair no",nature,society,122,63,"art, history and culture"
+165,2045,addr:housenumber  addr:street Bass Highway amenity cafe,society,activities,170,3,food and beverage
+166,2607,,nature,society,222,41,"art, history and culture"
+167,3410,,nature,activities,294,3,food and beverage
+168,1780,cycleway:both no highway unclassified lanes  maxheight  oneway yes surface asphalt,nature,transport,141,2,trail-path-and-canal
+169,4218,amenity bbq check_date --,activities,nature,371,48,flora and funa
+170,3506,,nature,transport,303,20,trail-path-and-canal
+171,499,access yes amenity toilets changing_table yes fee no female yes level  male yes portable no toilets:handwashing yes unisex yes wheelchair yes,activities,nature,32,11,flora and funa
+172,3613,leisure park,activities,nature,315,14,flora and funa
+173,923,,nature,activities,67,13,picnic area
+174,504,highway footway,nature,activities,32,22,fishing to surfing
+175,1363,,nature,activities,106,28,fishing to surfing
+176,1340,,nature,society,105,15,"art, history and culture"
+177,3324,highway footway source survey surface paved,nature,society,288,17,"art, history and culture"
+178,3177,,nature,activities,276,3,food and beverage
+179,782,,nature,activities,54,35,sport complexes
+180,2619,,nature,activities,222,22,fishing to surfing
+181,823,,nature,activities,58,13,picnic area
+182,1570,,nature,activities,126,3,food and beverage
+183,4190,,nature,society,370,8,"art, history and culture"
+184,2330,,nature,society,198,41,"art, history and culture"
+185,2755,leisure fitness_station,nature,activities,233,35,sport complexes
+186,4208,,nature,transport,371,20,trail-path-and-canal
+187,2586,,nature,society,220,50,human made landmarks
+188,2038,natural water,nature,activities,168,29,fishing to surfing
+189,1760,addr:city Footscray addr:housenumber  addr:postcode  addr:street Joseph Road amenity place_of_worship building yes opening_hours Mo-Fr :-:; Sa-Su :-: religion taoist type multipolygon website http://heavenlyqueentemple.com.au/,society,transport,140,2,trail-path-and-canal
+190,815,,nature,society,57,18,"art, history and culture"
+191,595,"access destination highway footway access destination highway footway surface dirt highway tertiary maxspeed  maxspeed:conditional  @ (Mo-Fr :-:,:-:; PH off; SH off) maxspeed:type sign sidewalk both surface asphalt cycleway:both no highway residential lanes  maxspeed  maxspeed:type sign sidewalk both surface asphalt cycleway:both no highway tertiary maxspeed:type AU:urban oneway no sidewalk both surface asphalt",nature,society,40,41,"art, history and culture"
+192,3469,,nature,activities,300,29,fishing to surfing
+193,1086,,nature,activities,81,16,picnic area
+194,3025,,nature,activities,261,28,fishing to surfing
+195,3570,,nature,society,311,8,"art, history and culture"
+196,694,cycleway track foot no leisure track sport cycling surface concrete type multipolygon wikidata Q,nature,activities,48,49,sport complexes
+197,950,,nature,society,69,8,"art, history and culture"
+198,4335,bench yes bin no bus yes highway bus_stop lit no network PTV - Metropolitan Buses operator Dysons public_transport platform ref ID. route_ref  shelter no tactile_paving yes addr:city Fitzroy addr:housenumber  addr:postcode  addr:street Alexandra Parade leisure sports_centre operator City of Yarra phone +    sport swimming website https://www.yarracity.vic.gov.au/services/Yarra-Leisure/Fitzroy-Swimming-Pool/ wheelchair yes,nature,activities,381,49,sport complexes
+199,54,amenity shelter shelter_type gazebo,nature,society,3,8,"art, history and culture"
+200,3156,,nature,transport,273,2,trail-path-and-canal
+201,1018,bicycle designated foot designated highway cycleway segregated no surface asphalt width  bicycle designated foot designated highway cycleway segregated no surface asphalt width . bicycle designated foot designated highway cycleway layer - segregated no surface asphalt tunnel yes width . bicycle designated foot designated highway cycleway segregated no surface asphalt width . bicycle designated foot designated highway cycleway segregated no surface asphalt width .,nature,transport,75,67,trail-path-and-canal
+202,3507,,nature,activities,303,3,food and beverage
+203,4030,,nature,society,356,38,"art, history and culture"
+204,1875,landuse cemetery,society,nature,149,0,natural landmarks
+205,1765,landuse recreation_ground leisure park source Parks Victoria wikidata Q,activities,transport,140,2,trail-path-and-canal
+206,3652,landcover grass landuse recreation_ground,activities,nature,319,43,flora and funa
+207,3403,,nature,activities,294,3,food and beverage
+208,459,,nature,activities,28,7,picnic area
+209,110,,nature,society,5,17,"art, history and culture"
+210,177,leisure park,activities,society,13,8,"art, history and culture"
+211,1220,,nature,society,93,8,"art, history and culture"
+212,564,,nature,society,38,8,"art, history and culture"
+213,4210,,nature,activities,371,3,food and beverage
+214,3533,,nature,society,306,60,"art, history and culture"
+215,4184,,nature,activities,369,29,fishing to surfing
+216,2537,natural water source bing natural water source bing natural water source bing,nature,activities,217,13,picnic area
+217,1335,bicycle yes bridge yes foot yes highway footway layer  surface pebblestone,transport,nature,104,1,flora and funa
+218,2302,bicycle designated foot designated highway cycleway,nature,activities,195,23,sport complexes
+219,1377,,nature,activities,106,3,food and beverage
+220,2718,highway residential oneway yes source Bing surface paved highway residential oneway yes source Bing surface paved highway residential oneway yes source Bing surface paved highway residential oneway yes source Bing surface paved highway residential oneway yes source Bing surface paved highway residential source Bing surface paved,nature,society,229,41,"art, history and culture"
+221,2778,,nature,activities,235,7,picnic area
+222,3333,,nature,society,289,17,"art, history and culture"
+223,4198,,nature,society,370,8,"art, history and culture"
+224,2144,,nature,society,180,37,human made landmarks
+225,1953,,nature,society,157,38,"art, history and culture"
+226,1384,information office opening_hours Mo-Su :-: toilets no tourism information wheelchair yes,activities,society,108,60,"art, history and culture"
+227,1999,,nature,activities,164,29,fishing to surfing
+228,3764,leisure park wikidata Q,activities,nature,332,1,flora and funa
+229,3580,waterway stream,nature,transport,312,2,trail-path-and-canal
+230,3402,,nature,activities,294,3,food and beverage
+231,3504,,nature,society,303,38,"art, history and culture"
+232,3536,,nature,activities,307,16,picnic area
+233,1838,fixme needs survey highway service service alley source nearmap,nature,society,145,17,"art, history and culture"
+234,539,,nature,activities,36,44,sport complexes
+235,4333,,nature,activities,381,3,food and beverage
+236,4160,,nature,activities,368,5,picnic area
+237,1709,designation Rosalind Park leisure park operator City of Greater Bendigo operator:type government website https://www.bendigo.vic.gov.au/Things-to-Do/Parks-and-Gardens/Rosalind-Park wikidata Q wikipedia en:Rosalind Park,nature,activities,135,16,picnic area
+238,2265,,nature,activities,191,22,fishing to surfing
+239,2954,leisure marina natural water,nature,activities,255,29,fishing to surfing
+240,3018,bench yes bus yes highway bus_stop network PTV - Metropolitan Buses public_transport platform ref ID. shelter yes tactile_paving yes website https://www.ptv.vic.gov.au/stop// building sports_centre club sport source:geometry Bing,transport,activities,261,28,fishing to surfing
+241,261,addr:housenumber  addr:postcode  addr:state VIC addr:street High Street addr:suburb Thornbury amenity cafe building yes opening_hours Mo-Fr :-:; Sa-Su :-: outdoor_seating yes phone +    website https://www.shortround.com.au/,society,activities,17,3,food and beverage
+242,2966,highway footway lit no smoothness intermediate surface paving_stones bridge yes highway footway layer  surface composite highway footway lit no surface paving_stones,society,nature,255,40,flora and funa
+243,1445,,nature,society,113,50,human made landmarks
+244,2945,,nature,activities,253,29,fishing to surfing
+245,94,leisure park,activities,society,5,18,"art, history and culture"
+246,932,,nature,activities,67,16,picnic area
+247,1139,layer - leisure park website https://www.geelongaustralia.com.au/leisure/parks/item/eastern.aspx wikidata Q,activities,nature,86,9,flora and funa
+248,3467,leisure park,activities,society,300,50,human made landmarks
+249,3095,,nature,society,267,17,"art, history and culture"
+250,4229,,nature,transport,372,2,trail-path-and-canal
+251,75,,nature,society,4,39,"art, history and culture"
+252,2483,foot yes highway cycleway source nearmap surface paved,nature,transport,212,67,trail-path-and-canal
+253,2343,,nature,society,199,38,"art, history and culture"
+254,3485,amenity library building yes height . operator Geelong Regional Libraries landuse greenfield,society,activities,301,44,sport complexes
+255,2395,,nature,society,204,15,"art, history and culture"
+256,3229,,nature,society,281,8,"art, history and culture"
+257,2688,,nature,activities,228,68,fishing to surfing
+258,254,,nature,society,17,17,"art, history and culture"
+259,957,,nature,society,69,17,"art, history and culture"
+260,1253,bridge cantilever destination:lanes Lorimer Street;Kings Way|South East Suburbs;City|West Gate Bridge;Geelong height  m highway motorway lanes  layer  maxspeed  network AU:VIC oneway yes operator Transurban ref M source survey surface asphalt toll yes website https://www.citylink.com.au/,transport,nature,97,1,flora and funa
+261,4360,,nature,transport,384,20,trail-path-and-canal
+262,258,addr:housenumber  addr:postcode  addr:state VIC addr:street High Street addr:suburb Thornbury building yes shop pastry,society,activities,17,3,food and beverage
