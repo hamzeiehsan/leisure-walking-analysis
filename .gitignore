@@ -68,3 +68,4 @@ outputs/model/*
 !outputs/model/.gitkeep
 top_k_detailed_*.geojson
 note.md
+test.py
