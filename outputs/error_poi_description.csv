@@ -1,264 +1,389 @@
 ,index,osm_info,pred,actual,record_id,topic,Subclass,lack_of_context
-0,887,amenity university website http://www.rmit.edu.au/about/our-locations-and-facilities/locations/melbourne-bundoora-campus/,2,0,64,7,picnic area,False
-1,2710,,1,2,229,32,"art, history and culture",True
-2,1435,highway residential maxspeed  surface asphalt,1,2,113,50,human made landmarks,False
-3,3904,,1,0,344,44,sport complexes,True
-4,1122,,1,0,85,35,sport complexes,True
-5,2286,,1,3,193,47,lines and stations,True
-6,170,,1,0,12,3,food and beverage,True
-7,2582,,1,2,220,12,human made landmarks,True
-8,1653,fee yes opening_hours Mo-Su :-: tourism museum website https://www.australiansportsmuseum.org.au/ wikidata Q,0,2,132,39,"art, history and culture",False
-9,3828,,1,2,338,50,human made landmarks,True
-10,3254,,1,0,282,3,food and beverage,True
-11,941,,1,2,68,39,"art, history and culture",True
-12,1489,,1,2,115,17,"art, history and culture",True
-13,900,amenity restaurant cuisine burger;regional outdoor_seating yes,0,2,65,17,"art, history and culture",False
-14,1589,bridge yes foot yes highway footway layer  operator City of Banyule phone +    ref BR source survey surface concrete,3,1,127,0,natural landmarks,False
-15,2481,leisure park,0,1,211,1,flora and funa,False
-16,3737,,1,0,328,5,picnic area,True
-17,4379,amenity parking amenity parking highway service service parking_aisle,2,0,386,16,picnic area,False
-18,3057,amenity bench backrest yes amenity bench backrest yes,0,1,264,1,flora and funa,False
-19,3997,,1,2,353,12,human made landmarks,True
-20,867,,1,2,62,41,"art, history and culture",True
-21,806,,1,2,57,18,"art, history and culture",True
-22,3383,,1,2,293,8,"art, history and culture",True
-23,3754,amenity bench,1,0,330,13,picnic area,False
-24,3188,,1,0,277,22,fishing to surfing,True
-25,1775,artwork_type sculpture material steel tourism artwork,2,1,141,0,natural landmarks,False
-26,1505,,1,0,117,29,fishing to surfing,True
-27,199,addr:city Melbourne addr:housenumber  addr:postcode  addr:street Swanston Street amenity library building yes fax +    internet_access wlan internet_access:fee no opening_hours Mo-Th :-:; Fr-Su :-: phone +    website https://www.slv.vic.gov.au wikidata Q,0,2,13,12,human made landmarks,False
-28,3041,direction  tourism viewpoint,1,3,262,47,lines and stations,False
-29,2812,,1,2,240,52,"art, history and culture",True
-30,3196,,1,2,278,15,"art, history and culture",True
-31,1355,highway footway,1,0,106,28,fishing to surfing,False
-32,677,,1,0,47,5,picnic area,True
-33,2817,,1,2,240,52,"art, history and culture",True
-34,2931,,1,2,252,34,human made landmarks,True
-35,2411,addr:suburb East Melbourne leisure park phone +    wikidata Q wikipedia en:Treasury Gardens,2,1,204,6,flora and funa,False
-36,2091,,1,2,176,18,"art, history and culture",True
-37,3551,[],1,2,308,51,"art, history and culture",True
-38,3144,amenity parking,0,1,272,0,natural landmarks,False
-39,89,,1,3,4,2,trail-path-and-canal,True
-40,2342,,1,2,199,15,"art, history and culture",True
-41,1981,,1,3,161,2,trail-path-and-canal,True
-42,3549,,1,2,308,8,"art, history and culture",True
-43,3090,,1,3,266,2,trail-path-and-canal,True
-44,2390,,1,0,203,16,picnic area,True
-45,4336,"access yes attraction night_life cycleway:both lane cycleway:both:traffic_mode:left parking cycleway:both:width . cycleway:left:conditional lane @ (Mo-Fr :-:) cycleway:left:lane advisory cycleway:left:lane:conditional exclusive @ (Mo-Fr :-:) cycleway:right:doorzone yes cycleway:right:lane exclusive description Street known for cafés, live music venues and alternative fashion shops. Source: Wikipedia embedded_rails tram fee no highway tertiary maxspeed  network AU:VIC:S note bike lane is legally marked so it is still to be recorded. There is also a clearway along this road ref  source survey source:maxspeed https://yoursayyarra.com.au/km surface paved tourism attraction wikipedia en:Brunswick Street, Melbourne",1,2,381,41,"art, history and culture",False
-46,811,,1,0,57,23,sport complexes,True
-47,2103,,1,0,177,13,picnic area,True
-48,2802,place neighbourhood source http://www.thatsmelbourne.com.au/Documents/Maps/Docklands_map.pdf website http://victoriaharbour.com.au/,0,1,238,4,natural landmarks,False
-49,2178,amenity clock man_made tower source survey,0,2,183,51,"art, history and culture",False
-50,1415,tourism picnic_site,0,1,111,21,flora and funa,False
-51,2767,bridge yes highway tertiary layer  oneway no source GPS surface paved bridge yes foot designated highway cycleway layer  segregated no source:geometry Bing aerial imagery surface asphalt,3,0,234,5,picnic area,False
-52,4187,leisure park,0,1,370,48,flora and funa,False
-53,1333,bicycle yes foot yes highway footway surface asphalt,1,3,104,2,trail-path-and-canal,False
-54,2311,natural water type multipolygon,1,0,196,44,sport complexes,False
-55,190,"cycleway:both no highway unclassified lit yes maxspeed  oneway yes source survey;Yahoo,bing surface asphalt",1,2,13,17,"art, history and culture",False
-56,2260,,1,3,191,2,trail-path-and-canal,True
-57,1859,amenity post_office building yes operator Australia Post,2,0,148,3,food and beverage,False
-58,4201,,1,2,371,60,"art, history and culture",True
-59,717,information board source survey tourism information natural water water river,1,3,49,2,trail-path-and-canal,False
-60,2978,,1,0,256,13,picnic area,True
-61,2990,,1,2,257,15,"art, history and culture",True
-62,1779,,1,3,141,2,trail-path-and-canal,True
-63,98,building yes source Bing tourism viewpoint,1,0,5,22,fishing to surfing,False
-64,2939,,1,3,253,20,trail-path-and-canal,True
-65,1513,,1,3,117,20,trail-path-and-canal,True
-66,4341,bicycle yes foot yes highway service oneway no service alley surface paved,1,2,382,17,"art, history and culture",False
-67,1459,,1,2,113,50,human made landmarks,True
-68,937,highway footway,1,0,68,42,picnic area,False
-69,1508,,1,0,117,29,fishing to surfing,True
-70,4095,,1,0,363,44,sport complexes,True
-71,1700,,1,2,134,12,human made landmarks,True
-72,4081,"building yes historic building start_date  wikidata Q wikipedia en:Government House, Melbourne",2,1,362,6,flora and funa,False
-73,1548,,1,0,123,23,sport complexes,True
-74,1447,,1,0,113,3,food and beverage,True
-75,1164,,1,2,88,38,"art, history and culture",True
-76,223,leisure park,0,1,15,58,flora and funa,False
-77,3718,,1,0,326,13,picnic area,True
-78,3501,artwork_type sculpture material wood start_date  tourism artwork,2,1,303,21,flora and funa,False
-79,3043,,1,2,262,34,human made landmarks,True
-80,403,highway path highway service,1,3,24,2,trail-path-and-canal,False
-81,1342,,1,0,105,13,picnic area,True
-82,2578,,1,2,220,18,"art, history and culture",True
-83,985,leisure park wikidata Q,0,1,72,0,natural landmarks,False
-84,1687,,1,2,134,15,"art, history and culture",True
-85,1233,amenity bbq,0,1,95,21,flora and funa,False
-86,3028,,1,0,261,28,fishing to surfing,True
-87,830,,1,2,58,17,"art, history and culture",True
-88,966,waterway waterfall,1,3,70,2,trail-path-and-canal,False
-89,538,leisure park source yahoo wikidata Q,1,0,36,16,picnic area,False
-90,458,,1,0,28,36,sport complexes,True
-91,1101,,1,0,83,13,picnic area,True
-92,1197,leisure garden,1,0,90,44,sport complexes,False
-93,2009,,1,3,165,2,trail-path-and-canal,True
-94,4312,,1,2,380,15,"art, history and culture",True
-95,3498,,1,2,302,51,"art, history and culture",True
-96,1576,,1,0,126,5,picnic area,True
-97,2852,addr:street Silverdale Road addr:suburb Eaglemont landuse retail,0,1,244,48,flora and funa,False
-98,3475,building roof layer ,0,2,300,41,"art, history and culture",False
-99,1666,addr:country AU addr:housenumber - addr:postcode  addr:state VIC addr:street St Kilda Road addr:suburb Southbank amenity arts_centre building yes description Rich treasury of visual arts. fee no opening_hours Mo-Su :-: phone +    toilets:wheelchair yes tourism gallery website https://www.ngv.vic.gov.au wheelchair yes wikidata Q wikipedia en:National Gallery of Victoria,0,2,132,39,"art, history and culture",False
-100,2450,building civic,2,1,207,4,natural landmarks,False
-101,1225,,1,2,93,15,"art, history and culture",True
-102,813,,1,2,57,32,"art, history and culture",True
-103,1501,leisure park wikidata Q,0,1,117,4,natural landmarks,False
-104,3271,,1,0,284,29,fishing to surfing,True
-105,2627,amenity bench backrest yes amenity bench backrest yes,0,1,223,6,flora and funa,False
-106,2210,highway residential source yahoo surface paved highway service service alley,1,2,185,17,"art, history and culture",False
-107,2089,,1,2,176,15,"art, history and culture",True
-108,2556,bicycle no highway footway,1,3,218,20,trail-path-and-canal,False
-109,2734,,1,2,231,17,"art, history and culture",True
-110,2312,access private historic ruins,2,1,196,48,flora and funa,False
-111,863,,1,0,62,28,fishing to surfing,True
-112,423,,1,2,25,12,human made landmarks,True
-113,1160,information office tourism information,1,3,88,20,trail-path-and-canal,False
-114,299,,1,2,21,17,"art, history and culture",True
-115,3957,leisure nature_reserve natural wood source Vicmap WMTS,1,2,349,50,human made landmarks,False
-116,2106,,1,2,177,15,"art, history and culture",True
-117,1347,,1,2,105,32,"art, history and culture",True
-118,1724,"garden:type botanical leisure garden note benches, bbq, picnic tables, playground wikidata Q",0,1,135,6,flora and funa,False
-119,316,highway pedestrian highway service,1,2,21,17,"art, history and culture",False
-120,1014,fixme extents? leisure park amenity shelter shelter_type picnic_shelter,1,0,74,5,picnic area,False
-121,1132,,1,0,85,5,picnic area,True
-122,1534,,1,0,121,7,picnic area,True
-123,3955,,1,3,348,47,lines and stations,True
-124,3920,bicycle yes foot yes highway footway horse no incline % surface paved width  leisure playground,1,0,346,42,picnic area,False
-125,805,,1,2,57,8,"art, history and culture",True
-126,1762,"dog no leisure park source nearmap,melway",0,3,140,2,trail-path-and-canal,False
-127,1963,,1,0,158,5,picnic area,True
-128,1720,landuse cemetery source nearmap wikidata Q,1,2,135,8,"art, history and culture",False
-129,2751,,1,2,233,18,"art, history and culture",True
-130,1469,,1,2,113,50,human made landmarks,True
-131,4104,leisure park,0,1,364,6,flora and funa,False
-132,95,addr:housenumber  addr:postcode  addr:street Ocean Beach Road amenity cafe building yes website https://allsmiles.com.au/ wifi no,1,0,5,3,food and beverage,False
-133,2207,,1,2,185,51,"art, history and culture",True
-134,793,area yes landuse allotments,2,1,56,6,flora and funa,False
-135,1876,,1,2,149,60,"art, history and culture",True
-136,844,"access yes description Demolished in , all that remains are concrete floors and rock paving, almost vanished under the scrub historic ruins ruins farmhouse url https://rlcnews.com.au/articles/knox-historical-society/",2,1,60,9,flora and funa,False
-137,1574,addr:housenumber  addr:street Alfrieda Street addr:unit  amenity restaurant,2,0,126,3,food and beverage,False
-138,2426,,1,3,205,2,trail-path-and-canal,True
-139,3336,leisure garden,1,3,290,20,trail-path-and-canal,False
-140,1010,amenity bench amenity bench,1,0,74,13,picnic area,False
-141,274,"dog no leisure park source nearmap,melway",0,1,18,1,flora and funa,False
-142,3834,,1,2,338,30,human made landmarks,True
-143,1985,tourism viewpoint,1,0,161,5,picnic area,False
-144,987,,1,2,72,17,"art, history and culture",True
-145,4105,,1,2,364,8,"art, history and culture",True
-146,994,highway path source:geometry VicMap Transport,1,3,73,47,lines and stations,False
-147,1475,,1,2,114,38,"art, history and culture",True
-148,424,,1,2,25,52,"art, history and culture",True
-149,4316,,1,2,380,15,"art, history and culture",True
-150,492,addr:city Bright addr:housenumber - addr:postcode  addr:street Mountbatten Avenue phone:AU    tents yes tourism caravan_site website https://www.big.com.au/,2,1,31,0,natural landmarks,False
-151,3394,,1,2,293,12,human made landmarks,True
-152,1872,leisure park,0,1,149,11,flora and funa,False
-153,1895,leisure park,0,2,152,18,"art, history and culture",False
-154,3751,,1,0,330,16,picnic area,True
-155,2908,,1,2,249,17,"art, history and culture",True
-156,3750,,1,0,330,5,picnic area,True
-157,3206,addr:city Bendigo addr:country AU addr:postcode  addr:state VIC building greenhouse,1,0,278,16,picnic area,False
-158,763,,1,2,53,15,"art, history and culture",True
-159,1482,leisure park wikidata Q,0,1,114,6,flora and funa,False
-160,4196,,1,2,370,8,"art, history and culture",True
-161,4352,,1,2,383,39,"art, history and culture",True
-162,4076,,1,2,362,39,"art, history and culture",True
-163,4188,,1,2,370,63,"art, history and culture",True
-164,1540,"attraction natural description short tunnel cut by gold miners in the s across a meander loop. When water level is high, water flows through it and spurts out the outer end. fee no tourism attraction wheelchair no",1,2,122,63,"art, history and culture",False
-165,2045,addr:housenumber  addr:street Bass Highway amenity cafe,2,0,170,3,food and beverage,False
-166,2607,,1,2,222,41,"art, history and culture",True
-167,3410,,1,0,294,3,food and beverage,True
-168,1780,cycleway:both no highway unclassified lanes  maxheight  oneway yes surface asphalt,1,3,141,2,trail-path-and-canal,False
-169,4218,amenity bbq check_date --,0,1,371,48,flora and funa,False
-170,3506,,1,3,303,20,trail-path-and-canal,True
-171,499,access yes amenity toilets changing_table yes fee no female yes level  male yes portable no toilets:handwashing yes unisex yes wheelchair yes,0,1,32,11,flora and funa,False
-172,3613,leisure park,0,1,315,14,flora and funa,False
-173,923,,1,0,67,13,picnic area,True
-174,504,highway footway,1,0,32,22,fishing to surfing,False
-175,1363,,1,0,106,28,fishing to surfing,True
-176,1340,,1,2,105,15,"art, history and culture",True
-177,3324,highway footway source survey surface paved,1,2,288,17,"art, history and culture",False
-178,3177,,1,0,276,3,food and beverage,True
-179,782,,1,0,54,35,sport complexes,True
-180,2619,,1,0,222,22,fishing to surfing,True
-181,823,,1,0,58,13,picnic area,True
-182,1570,,1,0,126,3,food and beverage,True
-183,4190,,1,2,370,8,"art, history and culture",True
-184,2330,,1,2,198,41,"art, history and culture",True
-185,2755,leisure fitness_station,1,0,233,35,sport complexes,False
-186,4208,,1,3,371,20,trail-path-and-canal,True
-187,2586,,1,2,220,50,human made landmarks,True
-188,2038,natural water,1,0,168,29,fishing to surfing,False
-189,1760,addr:city Footscray addr:housenumber  addr:postcode  addr:street Joseph Road amenity place_of_worship building yes opening_hours Mo-Fr :-:; Sa-Su :-: religion taoist type multipolygon website http://heavenlyqueentemple.com.au/,2,3,140,2,trail-path-and-canal,False
-190,815,,1,2,57,18,"art, history and culture",True
-191,595,"access destination highway footway access destination highway footway surface dirt highway tertiary maxspeed  maxspeed:conditional  @ (Mo-Fr :-:,:-:; PH off; SH off) maxspeed:type sign sidewalk both surface asphalt cycleway:both no highway residential lanes  maxspeed  maxspeed:type sign sidewalk both surface asphalt cycleway:both no highway tertiary maxspeed:type AU:urban oneway no sidewalk both surface asphalt",1,2,40,41,"art, history and culture",False
-192,3469,,1,0,300,29,fishing to surfing,True
-193,1086,,1,0,81,16,picnic area,True
-194,3025,,1,0,261,28,fishing to surfing,True
-195,3570,,1,2,311,8,"art, history and culture",True
-196,694,cycleway track foot no leisure track sport cycling surface concrete type multipolygon wikidata Q,1,0,48,49,sport complexes,False
-197,950,,1,2,69,8,"art, history and culture",True
-198,4335,bench yes bin no bus yes highway bus_stop lit no network PTV - Metropolitan Buses operator Dysons public_transport platform ref ID. route_ref  shelter no tactile_paving yes addr:city Fitzroy addr:housenumber  addr:postcode  addr:street Alexandra Parade leisure sports_centre operator City of Yarra phone +    sport swimming website https://www.yarracity.vic.gov.au/services/Yarra-Leisure/Fitzroy-Swimming-Pool/ wheelchair yes,1,0,381,49,sport complexes,False
-199,54,amenity shelter shelter_type gazebo,1,2,3,8,"art, history and culture",False
-200,3156,,1,3,273,2,trail-path-and-canal,True
-201,1018,bicycle designated foot designated highway cycleway segregated no surface asphalt width  bicycle designated foot designated highway cycleway segregated no surface asphalt width . bicycle designated foot designated highway cycleway layer - segregated no surface asphalt tunnel yes width . bicycle designated foot designated highway cycleway segregated no surface asphalt width . bicycle designated foot designated highway cycleway segregated no surface asphalt width .,1,3,75,67,trail-path-and-canal,False
-202,3507,,1,0,303,3,food and beverage,True
-203,4030,,1,2,356,38,"art, history and culture",True
-204,1875,landuse cemetery,2,1,149,0,natural landmarks,False
-205,1765,landuse recreation_ground leisure park source Parks Victoria wikidata Q,0,3,140,2,trail-path-and-canal,False
-206,3652,landcover grass landuse recreation_ground,0,1,319,43,flora and funa,False
-207,3403,,1,0,294,3,food and beverage,True
-208,459,,1,0,28,7,picnic area,True
-209,110,,1,2,5,17,"art, history and culture",True
-210,177,leisure park,0,2,13,8,"art, history and culture",False
-211,1220,,1,2,93,8,"art, history and culture",True
-212,564,,1,2,38,8,"art, history and culture",True
-213,4210,,1,0,371,3,food and beverage,True
-214,3533,,1,2,306,60,"art, history and culture",True
-215,4184,,1,0,369,29,fishing to surfing,True
-216,2537,natural water source bing natural water source bing natural water source bing,1,0,217,13,picnic area,False
-217,1335,bicycle yes bridge yes foot yes highway footway layer  surface pebblestone,3,1,104,1,flora and funa,False
-218,2302,bicycle designated foot designated highway cycleway,1,0,195,23,sport complexes,False
-219,1377,,1,0,106,3,food and beverage,True
-220,2718,highway residential oneway yes source Bing surface paved highway residential oneway yes source Bing surface paved highway residential oneway yes source Bing surface paved highway residential oneway yes source Bing surface paved highway residential oneway yes source Bing surface paved highway residential source Bing surface paved,1,2,229,41,"art, history and culture",False
-221,2778,,1,0,235,7,picnic area,True
-222,3333,,1,2,289,17,"art, history and culture",True
-223,4198,,1,2,370,8,"art, history and culture",True
-224,2144,,1,2,180,37,human made landmarks,True
-225,1953,,1,2,157,38,"art, history and culture",True
-226,1384,information office opening_hours Mo-Su :-: toilets no tourism information wheelchair yes,0,2,108,60,"art, history and culture",False
-227,1999,,1,0,164,29,fishing to surfing,True
-228,3764,leisure park wikidata Q,0,1,332,1,flora and funa,False
-229,3580,waterway stream,1,3,312,2,trail-path-and-canal,False
-230,3402,,1,0,294,3,food and beverage,True
-231,3504,,1,2,303,38,"art, history and culture",True
-232,3536,,1,0,307,16,picnic area,True
-233,1838,fixme needs survey highway service service alley source nearmap,1,2,145,17,"art, history and culture",False
-234,539,,1,0,36,44,sport complexes,True
-235,4333,,1,0,381,3,food and beverage,True
-236,4160,,1,0,368,5,picnic area,True
-237,1709,designation Rosalind Park leisure park operator City of Greater Bendigo operator:type government website https://www.bendigo.vic.gov.au/Things-to-Do/Parks-and-Gardens/Rosalind-Park wikidata Q wikipedia en:Rosalind Park,1,0,135,16,picnic area,False
-238,2265,,1,0,191,22,fishing to surfing,True
-239,2954,leisure marina natural water,1,0,255,29,fishing to surfing,False
-240,3018,bench yes bus yes highway bus_stop network PTV - Metropolitan Buses public_transport platform ref ID. shelter yes tactile_paving yes website https://www.ptv.vic.gov.au/stop// building sports_centre club sport source:geometry Bing,3,0,261,28,fishing to surfing,False
-241,261,addr:housenumber  addr:postcode  addr:state VIC addr:street High Street addr:suburb Thornbury amenity cafe building yes opening_hours Mo-Fr :-:; Sa-Su :-: outdoor_seating yes phone +    website https://www.shortround.com.au/,2,0,17,3,food and beverage,False
-242,2966,highway footway lit no smoothness intermediate surface paving_stones bridge yes highway footway layer  surface composite highway footway lit no surface paving_stones,2,1,255,40,flora and funa,False
-243,1445,,1,2,113,50,human made landmarks,True
-244,2945,,1,0,253,29,fishing to surfing,True
-245,94,leisure park,0,2,5,18,"art, history and culture",False
-246,932,,1,0,67,16,picnic area,True
-247,1139,layer - leisure park website https://www.geelongaustralia.com.au/leisure/parks/item/eastern.aspx wikidata Q,0,1,86,9,flora and funa,False
-248,3467,leisure park,0,2,300,50,human made landmarks,False
-249,3095,,1,2,267,17,"art, history and culture",True
-250,4229,,1,3,372,2,trail-path-and-canal,True
-251,75,,1,2,4,39,"art, history and culture",True
-252,2483,foot yes highway cycleway source nearmap surface paved,1,3,212,67,trail-path-and-canal,False
-253,2343,,1,2,199,38,"art, history and culture",True
-254,3485,amenity library building yes height . operator Geelong Regional Libraries landuse greenfield,2,0,301,44,sport complexes,False
-255,2395,,1,2,204,15,"art, history and culture",True
-256,3229,,1,2,281,8,"art, history and culture",True
-257,2688,,1,0,228,68,fishing to surfing,True
-258,254,,1,2,17,17,"art, history and culture",True
-259,957,,1,2,69,17,"art, history and culture",True
-260,1253,bridge cantilever destination:lanes Lorimer Street;Kings Way|South East Suburbs;City|West Gate Bridge;Geelong height  m highway motorway lanes  layer  maxspeed  network AU:VIC oneway yes operator Transurban ref M source survey surface asphalt toll yes website https://www.citylink.com.au/,3,1,97,1,flora and funa,False
-261,4360,,1,3,384,20,trail-path-and-canal,True
-262,258,addr:housenumber  addr:postcode  addr:state VIC addr:street High Street addr:suburb Thornbury building yes shop pastry,2,0,17,3,food and beverage,False
+0,1775,artwork_type sculpture material steel tourism artwork,2,3,141,0,trail-path-and-canal,False
+1,1516,leisure garden,2,1,118,33,flora and funa,False
+2,3995,,1,2,353,73,"art, history and culture",True
+3,2473,cycleway:left shared_lane cycleway:left:lane pictogram cycleway:right no highway residential surface paved cycleway:left shared_lane cycleway:left:lane pictogram cycleway:right lane cycleway:right:lane exclusive cycleway:right:traffic_mode:left parking cycleway:right:width . highway residential surface paved cycleway:both lane cycleway:both:lane exclusive cycleway:both:traffic_mode:left parking cycleway:both:width . highway residential surface paved,3,1,210,23,natural landmarks,False
+4,2440,,1,0,206,28,sport complexes,True
+5,2344,,1,2,199,51,"art, history and culture",True
+6,2587,,1,2,220,44,human made landmarks,True
+7,859,leisure park,0,2,62,7,human made landmarks,False
+8,3954,,1,0,348,41,sport complexes,True
+9,1877,highway track source:geometry Bing aerial imagery tracktype grade,1,3,149,0,trail-path-and-canal,False
+10,2342,,1,2,199,20,"art, history and culture",True
+11,2329,cycleway:both no highway secondary surface asphalt,3,2,198,8,"art, history and culture",False
+12,3731,leisure park,0,1,327,43,flora and funa,False
+13,3976,,1,0,351,15,picnic,True
+14,3476,opening_hours / shop lighting,0,2,300,11,human made landmarks,False
+15,1347,,1,2,105,11,human made landmarks,True
+16,394,,1,0,24,15,picnic,True
+17,3185,"addr:city Bendigo addr:country AU addr:housenumber - addr:postcode  addr:state VIC addr:street Pall Mall amenity ice_cream building yes opening_hours We,Th,Su :-:; Fr,Sa :-:; Mo,Tu :-: website http://www.coldrock-online.com.au/bendigo",2,0,276,3,food and beverage,False
+18,1434,,1,0,113,3,food and beverage,True
+19,490,leisure park boundary protected_area iucn_level III leisure nature_reserve note Way has been simplified using a maximum error criterion of m operator Committee of Management protect_class  protection_title Natural Features Reserve - Streamside Reserve ref:capad:pa_id VIC_ ref:vicmap:prims_id  source VicMap ParkRes source:geometry VicMap ParkRes start_date --,1,3,31,4,trail-path-and-canal,False
+20,1901,,1,2,152,22,"art, history and culture",True
+21,906,highway steps source survey,1,3,65,0,trail-path-and-canal,False
+22,2265,,1,0,191,42,fishing to surfing,True
+23,4313,,1,2,380,20,"art, history and culture",True
+24,1297,,1,0,100,58,sport complexes,True
+25,3485,amenity library building yes height . operator Geelong Regional Libraries landuse greenfield,2,0,301,50,fishing to surfing,False
+26,845,bicycle no foot designated highway path horse no motorcycle no source nearmap;survey;gps;local knowledge surface gravel,2,3,60,70,lines and stations,False
+27,3158,leisure park source Bing,0,1,273,2,natural landmarks,False
+28,2338,,1,2,199,44,human made landmarks,True
+29,3275,"opening_hours PH,Mo-Su :-: tourism theme_park",2,0,284,28,sport complexes,False
+30,715,leisure park leisure park,0,2,49,10,"art, history and culture",False
+31,1436,,1,2,113,11,human made landmarks,True
+32,44,,1,2,3,37,"art, history and culture",True
+33,3032,addr:housenumber A addr:street Beaconsfield Parade building yes building:levels  source survey addr:housenumber A addr:street Beaconsfield Parade amenity restaurant cuisine regional opening_hours:signed no,0,1,261,2,natural landmarks,False
+34,4199,,1,2,370,10,"art, history and culture",True
+35,907,highway steps source survey bicycle yes highway footway source survey surface unpaved bicycle yes highway footway source survey surface unpaved bridge:structure beam man_made bridge maxweight  width . bicycle yes highway footway source survey surface unpaved bicycle yes bridge yes highway footway layer  source survey surface unpaved layer  man_made bridge bicycle yes bridge yes highway footway layer  source survey surface unpaved,3,1,65,2,natural landmarks,False
+36,547,,1,3,37,0,trail-path-and-canal,True
+37,4226,,1,0,371,16,picnic,True
+38,3935,,1,3,347,0,trail-path-and-canal,True
+39,1255,addr:country AU addr:housenumber - addr:postcode  addr:state VIC addr:street Docklands Drive addr:suburb Docklands amenity studio landuse commercial layer - note Film Studios source Vicmap Address studio video website https://www.dsmelbourne.com/ wikidata Q,0,2,97,22,"art, history and culture",False
+40,1275,,1,2,99,37,"art, history and culture",True
+41,2774,access yes bicycle yes foot yes highway footway horse yes motor_vehicle no surface gravel access yes bicycle yes foot yes highway footway horse yes motor_vehicle no surface asphalt access yes bicycle yes foot yes highway footway horse yes motor_vehicle no surface gravel,1,2,235,65,"art, history and culture",False
+42,430,amenity restaurant building yes height .,2,0,26,3,food and beverage,False
+43,3652,landcover grass landuse recreation_ground,0,1,319,34,natural landmarks,False
+44,4303,,1,3,379,0,trail-path-and-canal,True
+45,3255,area yes landcover trees leisure nature_reserve source GPS,1,2,283,73,"art, history and culture",False
+46,1158,,1,2,88,7,human made landmarks,True
+47,3278,bicycle yes foot yes highway track motorcar permissive motorcycle no source GPS surface gravel,3,1,285,12,natural landmarks,False
+48,750,bicycle yes highway path route mtb source survey surface compacted,1,3,52,0,trail-path-and-canal,False
+49,3865,,1,2,341,29,"art, history and culture",True
+50,3767,,1,2,332,8,"art, history and culture",True
+51,857,,1,3,61,27,trail-path-and-canal,True
+52,1649,,1,3,132,4,trail-path-and-canal,True
+53,3322,amenity fountain barrier fence fountain decorative wikidata Q wikipedia en:Alexandra Fountain,2,3,288,4,trail-path-and-canal,False
+54,71,amenity clock board_type public_transport date no departures_board realtime display analog information board support wall tourism information,3,2,4,25,"art, history and culture",False
+55,132,place locality,1,-1,6,38,,False
+56,3394,,1,2,293,13,"art, history and culture",True
+57,2304,,1,0,195,16,picnic,True
+58,3135,,1,0,271,21,picnic,True
+59,3957,leisure nature_reserve natural wood source Vicmap WMTS,1,2,349,11,human made landmarks,False
+60,1754,,1,2,139,29,"art, history and culture",True
+61,4383,,1,3,386,0,trail-path-and-canal,True
+62,2091,,1,2,176,8,"art, history and culture",True
+63,315,,1,2,21,51,"art, history and culture",True
+64,2986,,1,2,257,25,"art, history and culture",True
+65,3387,,1,2,293,37,"art, history and culture",True
+66,933,man_made water_tower,1,2,67,37,"art, history and culture",False
+67,3266,waterway river,0,1,284,34,natural landmarks,False
+68,788,highway footway surface wood bridge yes highway footway surface wood highway footway surface wood highway footway source Bing/GPS,3,1,55,2,natural landmarks,False
+69,3650,,1,0,319,16,picnic,True
+70,1485,highway track surface unpaved highway track source nearmap surface unpaved,3,1,115,19,natural landmarks,False
+71,1518,,1,3,118,0,trail-path-and-canal,True
+72,3229,,1,2,281,10,"art, history and culture",True
+73,3397,,1,0,293,18,picnic,True
+74,1510,,1,3,117,27,trail-path-and-canal,True
+75,2583,,1,2,220,8,"art, history and culture",True
+76,2606,,1,0,222,16,picnic,True
+77,1669,tourism artwork wikidata Q,2,1,132,1,flora and funa,False
+78,416,,1,2,25,8,"art, history and culture",True
+79,4333,,1,0,381,3,food and beverage,True
+80,3301,landuse grass,1,0,287,31,picnic,False
+81,1368,highway residential source Yahoo surface asphalt,1,2,106,22,"art, history and culture",False
+82,3236,leisure park,0,1,281,12,natural landmarks,False
+83,902,dog yes leisure park website https://www.northsydney.nsw.gov.au/directory-record//milson-park,3,0,65,49,picnic,False
+84,821,access yes amenity parking fee no parking surface access yes amenity parking fee no parking surface access yes amenity parking fee no parking surface,0,1,58,66,natural landmarks,False
+85,4202,,1,2,371,29,"art, history and culture",True
+86,3507,,1,0,303,3,food and beverage,True
+87,106,,1,3,5,70,lines and stations,True
+88,330,highway path sac_scale hiking surface ground width .,3,1,22,2,natural landmarks,False
+89,3314,building yes fee yes museum local opening_hours Mo-Sa :-: tourism museum,2,0,288,6,picnic,False
+90,511,historic archaeological_site source interpolation;EsriWorldImageryClarity information board source survey tourism information,3,2,33,29,"art, history and culture",False
+91,1192,,1,2,90,7,human made landmarks,True
+92,4105,,1,2,364,10,"art, history and culture",True
+93,11,,1,2,2,65,"art, history and culture",True
+94,3026,electrified yes frequency  gauge  oneway alternating railway tram voltage ,2,-1,261,38,,False
+95,2860,,1,3,244,4,trail-path-and-canal,True
+96,678,highway path highway path surface ground highway path surface ground highway path,1,3,47,0,trail-path-and-canal,False
+97,4142,,1,0,368,41,sport complexes,True
+98,3755,,1,3,330,0,trail-path-and-canal,True
+99,1831,bicycle no foot yes highway path horse no motor_vehicle no bicycle no foot yes highway path horse no motor_vehicle no bicycle no foot yes highway path horse no motor_vehicle no bicycle no foot yes highway path horse no motor_vehicle no bicycle no foot yes highway path horse no motor_vehicle no bicycle no foot yes highway path horse no motor_vehicle no bicycle no foot yes highway path horse no motor_vehicle no bicycle no foot yes highway path horse no motor_vehicle no,1,3,144,0,trail-path-and-canal,False
+100,1262,sanitary_dump_station no tourism camp_site,2,1,98,24,flora and funa,False
+101,1918,,1,0,154,31,picnic,True
+102,426,leisure park,0,3,26,27,trail-path-and-canal,False
+103,1534,,1,0,121,6,picnic,True
+104,3742,,1,0,329,16,picnic,True
+105,1183,barrier gate barrier gate,3,2,90,7,human made landmarks,False
+106,604,landuse railway operator The Emerald Tourist Railway Board tourism attraction,2,0,41,35,fishing to surfing,False
+107,2867,,1,0,244,41,sport complexes,True
+108,3403,,1,0,294,3,food and beverage,True
+109,155,,1,0,9,35,fishing to surfing,True
+110,4385,,1,0,386,18,picnic,True
+111,1048,bicycle yes foot yes highway cycleway oneway no surface paved,3,1,78,9,natural landmarks,False
+112,875,tourism picnic_site tourism picnic_site,0,1,63,1,flora and funa,False
+113,2937,,1,0,253,15,picnic,True
+114,3363,leisure park,0,1,292,63,flora and funa,False
+115,3554,[],1,2,308,11,human made landmarks,True
+116,987,,1,2,72,22,"art, history and culture",True
+117,2045,addr:housenumber  addr:street Bass Highway amenity cafe,2,0,170,3,food and beverage,False
+118,2680,,1,0,227,31,picnic,True
+119,966,waterway waterfall,1,3,70,4,trail-path-and-canal,False
+120,2501,,1,2,213,29,"art, history and culture",True
+121,1593,,1,3,128,0,trail-path-and-canal,True
+122,986,,1,2,72,20,"art, history and culture",True
+123,2890,man_made dyke,1,3,247,70,lines and stations,False
+124,4195,,1,2,370,10,"art, history and culture",True
+125,3535,,1,2,306,20,"art, history and culture",True
+126,2892,,1,-1,247,38,,True
+127,1172,,1,0,88,59,fishing to surfing,True
+128,4197,,1,2,370,10,"art, history and culture",True
+129,115,bicycle yes foot yes highway cycleway motor_vehicle no smoothness intermediate width ,1,3,6,0,trail-path-and-canal,False
+130,2534,,1,0,217,31,picnic,True
+131,1109,,1,3,83,27,trail-path-and-canal,True
+132,3580,waterway stream,1,3,312,4,trail-path-and-canal,False
+133,1589,bridge yes foot yes highway footway layer  operator City of Banyule phone +    ref BR source survey surface concrete,3,0,127,55,fishing to surfing,False
+134,284,highway path,1,3,19,0,trail-path-and-canal,False
+135,2130,bicycle no bridge yes foot yes highway footway layer  surface concrete,3,0,179,21,picnic,False
+136,2687,,1,0,227,16,picnic,True
+137,1401,,1,3,110,0,trail-path-and-canal,True
+138,1337,,1,0,104,15,picnic,True
+139,1471,,1,2,113,8,"art, history and culture",True
+140,760,,1,2,53,37,"art, history and culture",True
+141,2037,,1,0,168,28,sport complexes,True
+142,3475,building roof layer ,2,1,300,45,flora and funa,False
+143,2544,,1,3,218,0,trail-path-and-canal,True
+144,3605,highway path,1,0,314,59,fishing to surfing,False
+145,3401,area yes highway pedestrian surface paving_stones,2,0,294,16,picnic,False
+146,263,fare_gates no internet_access no network Metro Trains Melbourne network:wikidata Q note Sunbury services do not stop here. operator Metro Trains Melbourne public_transport station railway station railway:ref SKN ref  train yes wheelchair yes wikidata Q,3,2,18,7,human made landmarks,False
+147,2984,,1,2,256,51,"art, history and culture",True
+148,1836,addr:housenumber  addr:postcode  addr:state VIC addr:street Lakes Drive addr:suburb Newport landuse plant_nursery,0,1,144,45,flora and funa,False
+149,3139,,1,3,271,0,trail-path-and-canal,True
+150,3291,,1,-1,286,38,,True
+151,3063,bench no bin yes bus yes departures_board timetable highway bus_stop lit yes network PTV - Metropolitan Buses operator Kinetic public_transport platform ref  shelter no tactile_paving yes bench yes bus yes departures_board timetable highway bus_stop network PTV - Metropolitan Buses operator Kinetic public_transport platform ref  shelter yes tactile_paving yes,0,1,264,19,natural landmarks,False
+152,4151,,1,0,368,16,picnic,True
+153,812,addr:housenumber  addr:street Lydiard Street North amenity cinema contact:facebook https://www.facebook.com/regentballarat contact:instagram regentballarat contact:twitter regentballarat phone +    website https://www.regentballarat.com.au/ wikidata Q,0,2,57,11,human made landmarks,False
+154,2268,,1,0,191,15,picnic,True
+155,2498,,1,2,213,29,"art, history and culture",True
+156,1018,bicycle designated foot designated highway cycleway segregated no surface asphalt width  bicycle designated foot designated highway cycleway segregated no surface asphalt width . bicycle designated foot designated highway cycleway layer - segregated no surface asphalt tunnel yes width . bicycle designated foot designated highway cycleway segregated no surface asphalt width . bicycle designated foot designated highway cycleway segregated no surface asphalt width .,3,1,75,66,natural landmarks,False
+157,810,,1,3,57,53,lines and stations,True
+158,950,,1,2,69,10,"art, history and culture",True
+159,3702,,1,3,324,4,trail-path-and-canal,True
+160,1115,amenity bus_station building yes bus yes public_transport station,0,1,84,17,flora and funa,False
+161,1643,addr:street Swanston Street identifiable_factor:cultural_significance yes identifiable_factor:structural_significance yes identifiable_factor:type yes internet_access wlan opening_hours / phone +    place square source:geometry services.land.vic.gov.au tourism attraction website https://fedsquare.com/ wikidata Q wikipedia en:Federation Square,0,2,132,11,human made landmarks,False
+162,4384,,1,0,386,15,picnic,True
+163,2016,bicycle yes foot yes highway steps horse yes layer  ski no snowmobile no step_count  surface unpaved wheelchair no bicycle yes foot yes highway steps horse yes layer  ski no snowmobile no step_count  surface unpaved wheelchair no,3,2,166,73,"art, history and culture",False
+164,2988,,1,0,257,3,food and beverage,True
+165,3172,bicycle no destination Spirit of Tasmania Boarding highway service oneway yes source survey,3,1,275,30,natural landmarks,False
+166,3356,,1,0,291,16,picnic,True
+167,2512,,1,0,215,16,picnic,True
+168,2142,,1,2,180,22,"art, history and culture",True
+169,1519,,1,2,118,7,human made landmarks,True
+170,661,tourism attraction bridge yes foot designated handrail:left yes highway path layer  sac_scale hiking source survey surface wood trail_visibility excellent,3,-1,45,38,,False
+171,1913,,1,3,153,0,trail-path-and-canal,True
+172,1008,,1,3,74,27,trail-path-and-canal,True
+173,2683,highway service service driveway surface paved highway service service driveway highway service service driveway surface paved,2,3,227,0,trail-path-and-canal,False
+174,3513,,1,2,304,8,"art, history and culture",True
+175,1063,,1,2,80,40,"art, history and culture",True
+176,2963,tourism viewpoint tourism viewpoint tourism viewpoint,1,-1,255,38,,False
+177,3218,"boundary protected_area iucn_level II leisure nature_reserve operator Parks Victoria operator:wikidata Q protect_class  protection_title National Park - Schedule , National Parks Act ref:capad:pa_id VIC_ ref:vicmap:prims_id  source VicMap ParkRes start_date -- type boundary website https://parkweb.vic.gov.au/explore/parks/greater-bendigo-national-park wikidata Q",1,3,280,0,trail-path-and-canal,False
+178,337,,1,0,23,57,sport complexes,True
+179,3270,attribution Geoscience Australia man_made breakwater,1,2,284,22,"art, history and culture",False
+180,590,,1,0,40,67,sport complexes,True
+181,3175,addr:city Bendigo addr:country AU addr:housenumber  addr:postcode  addr:state VIC addr:street Mitchell Street amenity restaurant cuisine italian website http://epicureandeli.com.au/,2,0,276,3,food and beverage,False
+182,822,,1,0,58,18,picnic,True
+183,79,highway footway,1,0,4,16,picnic,False
+184,2959,source http://www.nationalparks.nsw.gov.au/muttonbird-island-nature-reserve/muttonbird-island-outdoor-learning-space/aboriginal-site wheelchair yes,1,3,255,0,trail-path-and-canal,False
+185,3848,,1,3,340,0,trail-path-and-canal,True
+186,548,,1,0,37,41,sport complexes,True
+187,3220,,1,0,280,46,sport complexes,True
+188,1847,,1,2,146,37,"art, history and culture",True
+189,994,highway path source:geometry VicMap Transport,1,3,73,70,lines and stations,False
+190,4160,,1,0,368,16,picnic,True
+191,4145,,1,0,368,41,sport complexes,True
+192,2550,,1,0,218,72,sport complexes,True
+193,1443,,1,3,113,53,lines and stations,True
+194,4389,footway sidewalk highway footway footway sidewalk highway footway,1,3,386,0,trail-path-and-canal,False
+195,3956,building hall,2,0,349,3,food and beverage,False
+196,1021,bicycle yes bridge yes foot yes highway cycleway layer  width .,3,1,75,66,natural landmarks,False
+197,412,,1,0,24,67,sport complexes,True
+198,3508,leisure park wikidata Q,0,2,303,7,human made landmarks,False
+199,1746,amenity bench backrest no colour brown material wood note Two benches near each other seats  amenity bench backrest no colour brown material wood note Two benches near each other seats ,0,1,138,23,natural landmarks,False
+200,186,,1,2,13,47,human made landmarks,True
+201,3117,,1,2,270,10,"art, history and culture",True
+202,587,highway residential,1,3,40,0,trail-path-and-canal,False
+203,3999,,1,0,353,15,picnic,True
+204,1106,,1,3,83,27,trail-path-and-canal,True
+205,16,note Accessibility: category  office surveyor addr:country AU addr:housenumber  addr:postcode  addr:state VIC addr:street Victoria Street addr:suburb Carlton building yes source Vicmap Address wikidata Q,2,0,2,31,picnic,False
+206,113,man_made pier man_made pier man_made pier man_made pier man_made pier man_made pier man_made pier,0,3,6,27,trail-path-and-canal,False
+207,1902,highway path surface unpaved tourism viewpoint,1,3,152,0,trail-path-and-canal,False
+208,653,tourism attraction wheelchair no foot designated highway path sac_scale hiking surface paving_stones trail_visibility good,2,0,45,50,fishing to surfing,False
+209,3324,highway footway source survey surface paved,1,2,288,22,"art, history and culture",False
+210,1827,,1,0,144,16,picnic,True
+211,2074,electrified yes frequency  gauge  oneway alternating railway tram voltage ,2,3,173,53,lines and stations,False
+212,1173,highway cycleway source Bing;survey surface dirt,1,3,89,0,trail-path-and-canal,False
+213,4375,,1,2,385,47,human made landmarks,True
+214,3143,,1,2,271,48,human made landmarks,True
+215,1076,,1,0,81,21,picnic,True
+216,856,,1,3,61,0,trail-path-and-canal,True
+217,326,highway path source GPS;nearmap surface ground,3,1,22,2,natural landmarks,False
+218,2911,,1,2,249,25,"art, history and culture",True
+219,2875,,1,2,245,7,human made landmarks,True
+220,2893,bicycle yes foot yes highway track source nearmap tracktype grade access yes bicycle designated highway track motor_vehicle no source nearmap surface gravel,1,0,247,58,sport complexes,False
+221,3018,bench yes bus yes highway bus_stop network PTV - Metropolitan Buses public_transport platform ref ID. shelter yes tactile_paving yes website https://www.ptv.vic.gov.au/stop// building sports_centre club sport source:geometry Bing,0,1,261,2,natural landmarks,False
+222,4205,leisure garden,2,1,371,5,flora and funa,False
+223,1985,tourism viewpoint,1,0,161,16,picnic,False
+224,2358,foot yes highway cycleway,3,1,201,9,natural landmarks,False
+225,4196,,1,2,370,10,"art, history and culture",True
+226,4259,bridge yes highway path layer  surface wood,3,0,375,59,fishing to surfing,False
+227,1998,source bing waterway river,0,1,164,34,natural landmarks,False
+228,2496,,1,3,213,70,lines and stations,True
+229,3112,,1,0,269,3,food and beverage,True
+230,236,board_type notice information board tourism information,3,2,15,51,"art, history and culture",False
+231,4373,,1,2,385,29,"art, history and culture",True
+232,1441,,1,2,113,32,human made landmarks,True
+233,690,,1,3,48,0,trail-path-and-canal,True
+234,4135,area yes leisure stadium,0,1,367,69,flora and funa,False
+235,3417,,1,2,295,22,"art, history and culture",True
+236,2378,amenity parking,0,3,202,0,trail-path-and-canal,False
+237,3811,,1,2,336,7,human made landmarks,True
+238,3770,,1,2,332,8,"art, history and culture",True
+239,2313,,1,2,197,25,"art, history and culture",True
+240,3045,amenity bench backrest yes amenity bench backrest yes amenity bench backrest yes amenity bench backrest yes amenity bench backrest yes,0,1,263,2,natural landmarks,False
+241,3035,historic memorial inscription Captain Cook. HMS Endeavour memorial statue subject:wikidata Q,2,1,261,2,natural landmarks,False
+242,3028,,1,0,261,39,fishing to surfing,True
+243,4112,,1,0,365,28,sport complexes,True
+244,1566,,1,0,125,42,fishing to surfing,True
+245,2195,,1,0,184,42,fishing to surfing,True
+246,1648,"layer - leisure park wikidata Q wikipedia en:Birrarung Marr, Melbourne start_date  tourism artwork information map tourism information",2,0,132,71,fishing to surfing,False
+247,4165,,1,3,368,0,trail-path-and-canal,True
+248,3204,,1,2,278,7,human made landmarks,True
+249,1573,addr:housenumber  addr:street Alfrieda Street amenity fast_food,2,0,126,3,food and beverage,False
+250,1541,,1,0,122,50,fishing to surfing,True
+251,1391,addr:city Fairfield addr:street Fairfield Park Drive amenity theatre capacity  lit no operator Yarra City Council theatre:type amphi url https://www.yarracity.vic.gov.au/facilities/fairfield-amphitheatre wikidata Q,0,1,109,34,natural landmarks,False
+252,4103,tourism viewpoint,1,2,364,40,"art, history and culture",False
+253,259,addr:housenumber  addr:postcode  addr:state VIC addr:street High Street addr:suburb Thornbury addr:unit  building yes phone +    shop optician website https://collinandkirk.com.au/,0,2,17,8,"art, history and culture",False
+254,1387,operator Parks Victoria tourism attraction wikidata Q wikipedia en:State Coal Mine boundary protected_area leisure park operator Parks Victoria operator:wikidata Q operator:wikipedia en:Parks Victoria protect_class  protection_title Historic Reserve ref:vicmap:prims_id  source VicMap ParkRes start_date -- type boundary,1,2,108,29,"art, history and culture",False
+255,1727,bicycle designated foot designated highway cycleway segregated no source nearmap surface asphalt,3,1,135,66,natural landmarks,False
+256,4198,,1,2,370,10,"art, history and culture",True
+257,3738,,1,2,328,7,human made landmarks,True
+258,2686,,1,0,227,15,picnic,True
+259,2912,,1,0,250,59,fishing to surfing,True
+260,1551,,1,2,123,22,"art, history and culture",True
+261,3182,,1,0,276,6,picnic,True
+262,3921,bicycle yes foot yes highway footway horse no incline % surface paved width ,3,1,346,1,flora and funa,False
+263,2327,cycleway:both no highway primary lanes  maxspeed  network AU:VIC:S oneway yes ref  surface asphalt,3,2,198,8,"art, history and culture",False
+264,1739,,1,2,137,20,"art, history and culture",True
+265,2051,waterway stream,1,2,170,29,"art, history and culture",False
+266,1967,,1,2,159,7,human made landmarks,True
+267,1335,bicycle yes bridge yes foot yes highway footway layer  surface pebblestone,3,1,104,14,natural landmarks,False
+268,4305,,1,0,379,50,fishing to surfing,True
+269,1975,highway footway,1,0,160,50,fishing to surfing,False
+270,252,,1,2,17,22,"art, history and culture",True
+271,2212,,1,0,185,3,food and beverage,True
+272,1686,,1,2,134,20,"art, history and culture",True
+273,2597,bicycle designated foot designated highway cycleway surface gravel,1,3,221,0,trail-path-and-canal,False
+274,1627,addr:postcode  addr:state VIC addr:street King Street addr:suburb Melbourne building yes email info@melbourneaquarium.com.au height  layer  level  location surface opening_hours Mo-Fr :-:; Sa-Su :-: phone:AU    tourism aquarium website https://www.melbourneaquarium.com.au/ wikidata Q wikipedia en:Sea Life Melbourne Aquarium addr:street King Street opening_hours Mo-Su :-: phone:AU    tourism aquarium website https://www.melbourneaquarium.com.au/,2,0,131,50,fishing to surfing,False
+275,2538,,1,2,217,37,"art, history and culture",True
+276,1067,,1,0,80,59,fishing to surfing,True
+277,138,addr:housenumber  addr:street Boathouse Road amenity restaurant phone +    website https://www.studleyparkboathouse.com.au/,0,1,7,1,flora and funa,False
+278,485,,1,3,30,70,lines and stations,True
+279,381,,1,0,24,58,sport complexes,True
+280,2576,,1,2,220,25,"art, history and culture",True
+281,843,,1,3,60,70,lines and stations,True
+282,2134,,1,2,179,37,"art, history and culture",True
+283,1460,,1,0,113,57,sport complexes,True
+284,803,,1,2,57,10,"art, history and culture",True
+285,3911,,1,0,345,6,picnic,True
+286,2316,building yes,2,0,197,57,sport complexes,False
+287,3072,"description Highest point of Hanging Rock rock formation, a tourist attraction. ele  natural peak wikidata Q wikipedia en:Hanging Rock, Victoria",1,3,265,0,trail-path-and-canal,False
+288,2087,,1,2,175,32,human made landmarks,True
+289,1036,,1,0,76,16,picnic,True
+290,4285,building school,2,1,378,14,natural landmarks,False
+291,3551,[],1,2,308,40,"art, history and culture",True
+292,352,area yes bench yes bin no lit yes network PTV - Metropolitan Trams operator Yarra Trams public_transport platform railway platform ref  route_ref  shelter yes source nearmap tactile_paving yes tram yes wheelchair yes,0,1,23,17,flora and funa,False
+293,2465,abandoned:railway rail bicycle designated foot designated highway cycleway horse designated motorcar no motorcycle no oneway no railway abandoned segregated no source survey surface unpaved usage branch,3,1,209,5,flora and funa,False
+294,3428,,1,3,296,0,trail-path-and-canal,True
+295,2580,,1,2,220,8,"art, history and culture",True
+296,782,,1,0,54,41,sport complexes,True
+297,919,,1,3,67,0,trail-path-and-canal,True
+298,3499,natural wetland wetland tidalflat,1,2,302,73,"art, history and culture",False
+299,3831,,1,2,338,13,"art, history and culture",True
+300,3156,,1,3,273,4,trail-path-and-canal,True
+301,2607,,1,0,222,71,fishing to surfing,True
+302,2019,,1,2,166,73,"art, history and culture",True
+303,4073,cycleway:both no highway tertiary lanes  lit yes maxspeed  oneway yes source:width ARCore surface asphalt width .,1,0,361,3,food and beverage,False
+304,4219,,1,0,371,35,fishing to surfing,True
+305,2196,note Way has been simplified using a maximum error criterion of m source:geometry VicMap ParkRes source:geometry PSMA_Admin_Boundaries,1,3,184,0,trail-path-and-canal,False
+306,1256,attraction big_wheel disused:attraction yes tourism attraction website https://www.melbournestar.com/ wheelchair yes,2,1,97,12,natural landmarks,False
+307,640,,1,0,43,16,picnic,True
+308,3227,,1,2,281,32,human made landmarks,True
+309,1666,addr:country AU addr:housenumber - addr:postcode  addr:state VIC addr:street St Kilda Road addr:suburb Southbank amenity arts_centre building yes description Rich treasury of visual arts. fee no opening_hours Mo-Su :-: phone +    toilets:wheelchair yes tourism gallery website https://www.ngv.vic.gov.au wheelchair yes wikidata Q wikipedia en:National Gallery of Victoria,0,2,132,11,human made landmarks,False
+310,418,,1,2,25,13,"art, history and culture",True
+311,3769,,1,2,332,8,"art, history and culture",True
+312,1504,foot yes highway cycleway lit yes segregated no surface concrete,3,1,117,2,natural landmarks,False
+313,2612,place locality,1,0,222,55,fishing to surfing,False
+314,1863,,1,2,148,10,"art, history and culture",True
+315,1552,leisure park,0,2,123,51,"art, history and culture",False
+316,671,addr:housenumber  addr:street Victoria Avenue amenity ice_cream building yes building:levels  opening_hours Mo-Su :-:+ roof:levels ,2,0,46,3,food and beverage,False
+317,3623,boat no waterway river,1,2,316,52,"art, history and culture",False
+318,3333,,1,2,289,22,"art, history and culture",True
+319,2854,,1,2,244,51,"art, history and culture",True
+320,1359,highway footway,1,3,106,0,trail-path-and-canal,False
+321,764,highway residential lanes  maxspeed  oneway yes surface asphalt,3,1,53,2,natural landmarks,False
+322,3533,,1,2,306,29,"art, history and culture",True
+323,110,,1,2,5,22,"art, history and culture",True
+324,1958,,1,3,157,27,trail-path-and-canal,True
+325,2905,,1,2,249,22,"art, history and culture",True
+326,2047,tourism information,2,3,170,0,trail-path-and-canal,False
+327,1663,,1,2,132,11,human made landmarks,True
+328,3603,tourism viewpoint tourism viewpoint,1,0,314,59,fishing to surfing,False
+329,2503,,1,2,214,22,"art, history and culture",True
+330,85,highway pedestrian source nearmap,1,3,4,4,trail-path-and-canal,False
+331,4380,,1,3,386,0,trail-path-and-canal,True
+332,2330,,1,2,198,48,human made landmarks,True
+333,2964,amenity bench backrest yes tourism viewpoint tourism viewpoint tourism viewpoint,1,0,255,42,fishing to surfing,False
+334,459,,1,0,28,6,picnic,True
+335,926,,1,0,67,16,picnic,True
+336,2205,,1,2,185,25,"art, history and culture",True
+337,3064,landuse retail,0,2,264,25,"art, history and culture",False
+338,4066,amenity theatre website http://www.palaistheatre.net.au/,1,0,361,59,fishing to surfing,False
+339,1237,,1,0,95,21,picnic,True
+340,3001,,1,2,259,7,human made landmarks,True
+341,1846,,1,2,145,51,"art, history and culture",True
+342,3038,bicycle yes foot yes highway track horse yes motorcar no motorcycle no surface unpaved tracktype grade,1,2,262,52,"art, history and culture",False
+343,2772,,1,0,234,28,sport complexes,True
+344,2066,leisure park,0,2,171,7,human made landmarks,False
+345,3773,,1,2,332,8,"art, history and culture",True
+346,1469,,1,2,113,8,"art, history and culture",True
+347,2302,bicycle designated foot designated highway cycleway,1,0,195,28,sport complexes,False
+348,3972,,1,0,351,41,sport complexes,True
+349,4335,bench yes bin no bus yes highway bus_stop lit no network PTV - Metropolitan Buses operator Dysons public_transport platform ref ID. route_ref  shelter no tactile_paving yes addr:city Fitzroy addr:housenumber  addr:postcode  addr:street Alexandra Parade leisure sports_centre operator City of Yarra phone +    sport swimming website https://www.yarracity.vic.gov.au/services/Yarra-Leisure/Fitzroy-Swimming-Pool/ wheelchair yes,0,2,381,65,"art, history and culture",False
+350,219,building yes,2,1,14,1,flora and funa,False
+351,1458,,1,2,113,47,human made landmarks,True
+352,3619,bicycle yes foot yes highway cycleway lit no surface compacted bicycle yes foot yes highway cycleway lit no surface compacted,1,0,316,58,sport complexes,False
+353,4379,amenity parking amenity parking highway service service parking_aisle,2,0,386,21,picnic,False
+354,1187,,1,2,90,20,"art, history and culture",True
+355,2751,,1,2,233,60,human made landmarks,True
+356,3904,,1,0,344,50,fishing to surfing,True
+357,4336,"access yes attraction night_life cycleway:both lane cycleway:both:traffic_mode:left parking cycleway:both:width . cycleway:left:conditional lane @ (Mo-Fr :-:) cycleway:left:lane advisory cycleway:left:lane:conditional exclusive @ (Mo-Fr :-:) cycleway:right:doorzone yes cycleway:right:lane exclusive description Street known for cafés, live music venues and alternative fashion shops. Source: Wikipedia embedded_rails tram fee no highway tertiary maxspeed  network AU:VIC:S note bike lane is legally marked so it is still to be recorded. There is also a clearway along this road ref  source survey source:maxspeed https://yoursayyarra.com.au/km surface paved tourism attraction wikipedia en:Brunswick Street, Melbourne",3,0,381,3,food and beverage,False
+358,2184,leisure park source Bing,0,1,183,2,natural landmarks,False
+359,3726,,1,3,327,4,trail-path-and-canal,True
+360,1421,,1,0,112,18,picnic,True
+361,3184,highway pedestrian surface asphalt,1,0,276,3,food and beverage,False
+362,4100,natural wood,1,2,363,37,"art, history and culture",False
+363,2540,,1,3,218,0,trail-path-and-canal,True
+364,501,,1,3,32,27,trail-path-and-canal,True
+365,1296,amenity bench,0,1,100,2,natural landmarks,False
+366,4016,,1,3,355,27,trail-path-and-canal,True
+367,3547,highway crossing,1,2,308,40,"art, history and culture",False
+368,3557,highway track surface unpaved,3,2,309,10,"art, history and culture",False
+369,1509,boundary protected_area iucn_level IA leisure nature_reserve operator Parks Victoria protect_class  protection_title Nature Conservation Reserve - Flora And Fauna Reserve ref:capad:pa_id VIC_ ref:vicmap:prims_id  source VicMap ParkRes start_date -- type boundary,1,3,117,27,trail-path-and-canal,False
+370,826,bridge yes highway footway layer  surface wood width .,3,1,58,1,flora and funa,False
+371,1216,,1,3,92,0,trail-path-and-canal,True
+372,84,landuse grass,1,0,4,6,picnic,False
+373,3677,bicycle no foot yes highway footway,1,3,322,0,trail-path-and-canal,False
+374,2728,,1,0,230,18,picnic,True
+375,4030,,1,2,356,51,"art, history and culture",True
+376,544,,1,0,36,3,food and beverage,True
+377,2977,foot yes highway cycleway surface concrete,3,1,256,30,natural landmarks,False
+378,3294,,1,2,286,20,"art, history and culture",True
+379,1058,,1,2,80,44,human made landmarks,True
+380,2627,amenity bench backrest yes amenity bench backrest yes,0,2,223,7,human made landmarks,False
+381,1550,,1,2,123,22,"art, history and culture",True
+382,1257,,1,0,97,3,food and beverage,True
+383,3044,bicycle designated cycleway:surface asphalt foot designated footway:surface asphalt highway cycleway oneway:bicycle yes segregated yes surface asphalt bicycle designated crossing uncontrolled cycleway crossing cycleway:surface asphalt foot designated footway:surface asphalt highway cycleway oneway:bicycle yes surface asphalt bicycle designated cycleway:surface asphalt foot designated footway:surface asphalt highway cycleway oneway:bicycle yes segregated yes surface asphalt bicycle designated foot designated highway cycleway oneway:bicycle yes segregated yes surface asphalt bicycle designated cycleway crossing foot designated highway cycleway oneway:bicycle yes surface asphalt bicycle designated foot designated highway cycleway oneway:bicycle yes segregated yes surface asphalt,3,1,263,66,natural landmarks,False
+384,4203,leisure garden,2,0,371,15,picnic,False
+385,3894,club fishing,2,0,344,16,picnic,False
+386,1042,,1,3,77,0,trail-path-and-canal,True
+387,721,,1,3,50,0,trail-path-and-canal,True
