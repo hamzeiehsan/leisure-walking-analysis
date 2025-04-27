@@ -56,7 +56,6 @@ coverage.xml
 .vscode
 
 cache
-dataset/osm-poi-*
 *.bundle.*
 *.egg-info/
 .ipynb_checkpoints
