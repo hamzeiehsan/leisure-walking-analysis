@@ -57,7 +57,6 @@ coverage.xml
 
 cache
 dataset/osm-poi-*
-outputs/annotations/top_k*
 *.bundle.*
 *.egg-info/
 .ipynb_checkpoints
