@@ -19,3 +19,7 @@ Analysing the annotation provided by two annotators and find out what's the agre
 
 ## POI Selection
 Testing some baseline machine learning methods (considering both thematic and spatial aspects) in selecting POIs for leisure walks. See `5_POI_selection.ipynb`.
+
+
+## Annotation Tool
+A tool is developed for annotating, and used by both annotators. This tool is provided in a separate GitHub repo: https://github.com/hamzeiehsan/leisure_walk_annotation 
